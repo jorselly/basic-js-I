@@ -1,4 +1,4 @@
-# 🎠 Ejercicios básicos en Javascript
+# 🎠 Ejercicios básicos en Javascript parte I
 
 ## Objetivo
 
