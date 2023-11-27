@@ -87,26 +87,28 @@ console.log('Hola soy tu consola y juntas vamos a aprender Javascript')
 
 
 //Ejercicio 11: completa el ejercicio
-
+/*
 let num1 = 15
 let num2 = 20
 
-let comparasion = //Realiza la operación de comparación que consideres para que el resultado en consola sea true
-console.log(comparasion)
+let comparacion = //Realiza la operación de comparación que consideres para que el resultado en consola sea true
+console.log(comparacion)
+*/
 
 //Ejercicio 12: completa el ejercicio
-
+/*
 let num3 = 1
 let num3AsString = "1"
 
 let result = //Realiza la operación de comparación que consideres entre las dos variables dadas, para que el resultado en consola sea false sin usar el comparador de desigualdad
 console.log(result) 
+*/
 
 //Ejercicio 13: completa el ejercicio
-
+/*
 let result2 = //Realiza la operación de comparación que consideres con las dos variables del ejercicio anterior para que el resultado en consola sea true.
 console.log(result2)
-
+*/
 
 
 //OPERADORES DE CADENAS
